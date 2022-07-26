@@ -1,2 +1,2 @@
-# projeto-est-tico-livraria
+# projeto-estatico-livraria
 projeto de formação front end da ALURA
